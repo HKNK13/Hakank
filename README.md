@@ -1,4 +1,4 @@
-# Hakank 
+# Hknk
 # 💫 About Me:
 YTÜ Gemi inşa ve makineleri öğrencisiyim.<br>Yazılım ve sermaye piyasaları ile de ilgilenirim.<br>Kitap okumayı severim .<br>Genel olarak ilgilendiğim alanlarda araştırmalar yaparım.<br>Futbol ve voleybol oynarım.<br>
 
